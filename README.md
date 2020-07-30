@@ -1,4 +1,4 @@
-## prerequisite
+## Prerequisite
 
 [nodejs](https://nodejs.org/en/download/)
 
